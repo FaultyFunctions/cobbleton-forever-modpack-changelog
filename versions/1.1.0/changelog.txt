@@ -1,0 +1,25 @@
+# Added Gameplay Mods
+
+- [https://modrinth.com/mod/microdurability](https://modrinth.com/mod/microdurability "smartCard-inline") - Adds micro durability bars above your hotbar for your armor slots.
+- [https://modrinth.com/mod/waig](https://modrinth.com/mod/waig "smartCard-inline") - Adds a compass to the top of your screen. Can be toggled with F6.
+- [https://modrinth.com/mod/smartblockplacement](https://modrinth.com/mod/smartblockplacement "smartCard-inline") - Makes holding right mouse button and moving sideways to place blocks a lot smarter.
+- [https://modrinth.com/mod/quick-menu](https://modrinth.com/mod/quick-menu "smartCard-inline") - Open up a menu with **Z** to access quick server commands/functions.
+- [https://modrinth.com/mod/stack-to-nearby-chests](https://modrinth.com/mod/stack-to-nearby-chests "smartCard-inline") - Allows you to press a button to stack or restock from nearby chests within your reach. Also allows you to favorite items so you don’t accidentally drop them.
+- [https://modrinth.com/mod/advancementsfullscreen](https://modrinth.com/mod/advancementsfullscreen "smartCard-inline") - Makes the advancement screen not tiny.
+
+# Added Backend Mods
+
+- [https://modrinth.com/mod/esf](https://modrinth.com/mod/esf "smartCard-inline") - Allows resource packs to add sound variations.
+- [https://modrinth.com/mod/mod-loading-screen](https://modrinth.com/mod/mod-loading-screen "smartCard-inline") - Shows a custom loading screen when loading mods.
+
+# Updated Mods
+
+- [https://modrinth.com/mod/concentration](https://modrinth.com/mod/concentration "smartCard-inline") - v1.1.3
+
+# Removed Mods
+
+- Removed EMI - had some bugs
+
+# Updated Keybinds
+
+- Unbound `Save Hotbar Activator` to avoid conflict with zoom hotkey.
