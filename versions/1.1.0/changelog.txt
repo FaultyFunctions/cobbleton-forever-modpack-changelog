@@ -1,4 +1,4 @@
-## Added Gameplay Mods
+## Added Mods
 
 - [microDurability](https://modrinth.com/mod/microdurability "smartCard-inline") - Adds micro durability bars above your hotbar for your armor slots.
 - [WAIG: Where Am I Going](https://modrinth.com/mod/waig "smartCard-inline") - Adds a compass to the top of your screen. Can be toggled with F6.
@@ -6,6 +6,7 @@
 - [Quick Menu](https://modrinth.com/mod/quick-menu "smartCard-inline") - Open up a menu with **Z** to access quick server commands/functions.
 - [Stack to Nearby Chests](https://modrinth.com/mod/stack-to-nearby-chests "smartCard-inline") - Allows you to press a button to stack or restock from nearby chests within your reach. Also allows you to favorite items so you don’t accidentally drop them.
 - [AdvancementsFullscreen](https://modrinth.com/mod/advancementsfullscreen "smartCard-inline") - Makes the advancement screen not tiny.
+- [Black Bar Concealer](https://modrinth.com/mod/black-bar-concealer) - Will hide blackbars on slim skins that are set to wide. (plus using this to get around an issue with items adder emotes)
 
 ## Added Backend Mods
 
