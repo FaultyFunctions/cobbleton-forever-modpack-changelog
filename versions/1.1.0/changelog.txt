@@ -1,25 +1,44 @@
-# Added Gameplay Mods
+## Added Gameplay Mods
 
-- [https://modrinth.com/mod/microdurability](https://modrinth.com/mod/microdurability "smartCard-inline") - Adds micro durability bars above your hotbar for your armor slots.
-- [https://modrinth.com/mod/waig](https://modrinth.com/mod/waig "smartCard-inline") - Adds a compass to the top of your screen. Can be toggled with F6.
-- [https://modrinth.com/mod/smartblockplacement](https://modrinth.com/mod/smartblockplacement "smartCard-inline") - Makes holding right mouse button and moving sideways to place blocks a lot smarter.
-- [https://modrinth.com/mod/quick-menu](https://modrinth.com/mod/quick-menu "smartCard-inline") - Open up a menu with **Z** to access quick server commands/functions.
-- [https://modrinth.com/mod/stack-to-nearby-chests](https://modrinth.com/mod/stack-to-nearby-chests "smartCard-inline") - Allows you to press a button to stack or restock from nearby chests within your reach. Also allows you to favorite items so you don’t accidentally drop them.
-- [https://modrinth.com/mod/advancementsfullscreen](https://modrinth.com/mod/advancementsfullscreen "smartCard-inline") - Makes the advancement screen not tiny.
+- [microDurability](https://modrinth.com/mod/microdurability "smartCard-inline") - Adds micro durability bars above your hotbar for your armor slots.
+- [WAIG: Where Am I Going](https://modrinth.com/mod/waig "smartCard-inline") - Adds a compass to the top of your screen. Can be toggled with F6.
+- [SmartBlockPlacement](https://modrinth.com/mod/smartblockplacement "smartCard-inline") - Makes holding right mouse button and moving sideways to place blocks a lot smarter.
+- [Quick Menu](https://modrinth.com/mod/quick-menu "smartCard-inline") - Open up a menu with **Z** to access quick server commands/functions.
+- [Stack to Nearby Chests](https://modrinth.com/mod/stack-to-nearby-chests "smartCard-inline") - Allows you to press a button to stack or restock from nearby chests within your reach. Also allows you to favorite items so you don’t accidentally drop them.
+- [AdvancementsFullscreen](https://modrinth.com/mod/advancementsfullscreen "smartCard-inline") - Makes the advancement screen not tiny.
 
-# Added Backend Mods
+## Added Backend Mods
 
-- [https://modrinth.com/mod/esf](https://modrinth.com/mod/esf "smartCard-inline") - Allows resource packs to add sound variations.
-- [https://modrinth.com/mod/mod-loading-screen](https://modrinth.com/mod/mod-loading-screen "smartCard-inline") - Shows a custom loading screen when loading mods.
+- [Entity Sound Features](https://modrinth.com/mod/esf "smartCard-inline") - Allows resource packs to add sound variations.
+- [Mod Loading Screen](https://modrinth.com/mod/mod-loading-screen "smartCard-inline") - Shows a custom loading screen when loading mods.
+- [Surveyor Map Framework](https://modrinth.com/mod/surveyor "smartCard-inline") - Added in preparation for Antique Atlas updating to 1.21.
+- [Modpack Update Checker](https://modrinth.com/mod/modpack-update-checker "smartCard-inline") - Alerts you if there is a modpack update and allows us to have a nicer modpack changelog in-game.
 
-# Updated Mods
+## Updated Mod Configs
 
-- [https://modrinth.com/mod/concentration](https://modrinth.com/mod/concentration "smartCard-inline") - v1.1.3
+- Ping Wheel - Changed default ping radius to 256 blocks. Doesn’t really make sense for people outside your view distance to see your ping.
+- Inventory Profiles Next - Disabled IPN’s item favoriting in favor of Stack to Nearby Chests item favoriting
+- Fancy Menu - Added a single player button, updated the panoramic background, and cleared some backgrounds so you can actually see in-game when looking at your options for example.
 
-# Removed Mods
+## Updated Mods
 
-- Removed EMI - had some bugs
+- [Concentration](https://modrinth.com/mod/concentration "smartCard-inline") - 1.1.3
+- [Balm](https://modrinth.com/mod/balm "smartCard-inline") - 21.0.9+fabric-1.21
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps "smartCard-inline") - 3.5.0
+- [Eating Animation](https://modrinth.com/mod/eating-animation "smartCard-inline") - 1.9.72
+- [Fabric API](https://modrinth.com/mod/fabric-api "smartCard-inline") - 0.100.4+1.21
+- [FabricBetterGrass](https://modrinth.com/mod/fabricbettergrass "smartCard-inline") - 1.0.14+1.21
+- [Kaleido](https://modrinth.com/mod/kaleido "smartCard-inline") - 1.21-1.1.4
+- [Mod Menu](https://modrinth.com/mod/modmenu "smartCard-inline") - 11.0.1
+- [Ping Wheel](https://modrinth.com/mod/ping-wheel "smartCard-inline") - 1.9.1
+- [Text Placeholder API](https://modrinth.com/mod/placeholder-api "smartCard-inline") - 2.4.0+1.21
+- [Visuality](https://modrinth.com/mod/visuality "smartCard-inline") - 0.7.5+1.21
+- [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures "smartCard-inline") - 6.1.2
 
-# Updated Keybinds
+## Removed Mods
+
+- EMI - had some bugs, will re-add once they are fixed.
+
+## Updated Keybinds
 
 - Unbound `Save Hotbar Activator` to avoid conflict with zoom hotkey.
