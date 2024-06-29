@@ -1,8 +1,8 @@
 # IMPORTANT
 
-To get the proper keybinds fixes, you will need to launch the modpack and go to `Options...` → `Profiles` → `Cobbleton Forever Defaults` → `Load`.
+To get the proper keybind fixes, you will need to launch the modpack and go to `Options...` → `Profiles` → `Cobbleton Forever Defaults` → `Load`.
 
-This will reset **all settings** to the modpack defaults which will include proper keybind fixes but will also include video settings. So you’ll need to go into your settings and make sure they are set to your preferences again. After that, you can save your own profile if you’d like.
+This will reset **all settings** to the modpack defaults which will include the proper keybind fixes but will also include video settings. So you’ll need to go into your settings and make sure they are set to your preferences again. After that, you can save your own profile if you’d like.
 
 # Added Mods
 
