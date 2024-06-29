@@ -1,0 +1,61 @@
+# IMPORTANT
+
+To get the proper keybinds fixes, you will need to launch the modpack and go to `Options...` → `Profiles` → `Cobbleton Forever Defaults` → `Load`.
+
+This will reset **all settings** to the modpack defaults which will include proper keybind fixes but will also include video settings. So you’ll need to go into your settings and make sure they are set to your preferences again. After that, you can save your own profile if you’d like.
+
+# Added Mods
+
+- [EMI](https://modrinth.com/mod/emi "‌") - Added EMI back!
+- [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4 "‌") - An awesome hand-drawn stylized map mod. Use with **M**! Rebound Simple Voice Chat’s mute microphone button to comma.
+- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations "‌") - Adds a bunch of animations to the player including eating, drinking, climbing ladders, viewing maps, and more!
+- [Better Clouds](https://modrinth.com/mod/better-clouds "‌") - Enhances vanilla clouds. Will disable themselves if shaders are detected.
+- [Overlay Effects](https://modrinth.com/mod/overlaytweaks "‌") - Allows us to lower the fire overlay height and shield height among other things.
+- [Vectorientation](https://modrinth.com/mod/vectorientation "‌") - Adds fun squash and stretch to falling/flying blocks.
+- [Sounds](https://modrinth.com/mod/sound "‌") - Adds a variety of new sound effects to Minecraft.
+- [Options Profiles](https://modrinth.com/mod/options-profiles "‌") - Allows us to set a custom profile for our keybinds and settings that players can apply.
+
+# Added Backend Mods
+
+- [Polytone](https://modrinth.com/mod/polytone "‌") - Extra options for resource packs to use.
+- [Volume Fix](https://modrinth.com/mod/volume-fix "‌") - Fixes Minecraft’s bad volume slider.
+
+# Added Resource Packs
+
+- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations "‌") - Adds a bunch of new animations to mobs.
+- [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player "‌") - Adds new animations for the player plus allows the ability to add blinking/moving eyes to your skin. Tag me if you need help with this!
+
+# Updated Mod Configs
+
+- [FancyMenu](https://modrinth.com/mod/fancymenu "‌") - Added slideshow on main menu showing off some screenshots from our players and their builds. Added buttons for our website and discord server.
+
+# Updated Mods
+
+- [Balm](https://modrinth.com/mod/balm "‌") - 21.0.10+fabric-1.21
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps "‌") - 3.5.1
+- [FabricBetterGrass](https://modrinth.com/mod/fabricbettergrass "‌") - 1.0.15+1.21
+- [Visuality](https://modrinth.com/mod/fabricbettergrass "‌") - 0.7.6+1.21
+
+# Removed Mods
+
+- [3D Skin Layers](https://modrinth.com/mod/3dskinlayers "‌") - Conflicted with the Fresh Moves resource pack.
+
+# Updated Keybinds
+
+- **F6** - Toggle Compass
+- **F9** - Take Large Screenshot
+- **Z** - Open Quick Menu
+- **X** - Ping Location
+- **C** - Zoom
+- **V** - Voice Chat GUI
+- **B** - Mute Microphone
+- **N** - Deafen Voice Chat
+- **H** - Hide Voice Chat Icons
+- **M** - Open Atlas
+- **R** - Cycle Hotbars
+- **G** - Cycle Slot
+- **Comma** - Enable Smart Placement
+- **O** - Shaderpack Settings
+- **K** - Toggle Shaders
+- **Mouse 5** - Scroll Hotbar Left
+- **Mouse 4** - Scroll Hotbar Right
