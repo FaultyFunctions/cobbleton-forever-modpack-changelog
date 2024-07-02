@@ -1,0 +1,19 @@
+# Notable Bug Fixes
+
+- Riding an entity will no longer crash the client.
+- Default Options will load keybinds properly now on fresh installs.
+
+# Updated Mods
+
+- [AmbientSounds - 6.0.3](https://modrinth.com/mod/ambientsounds "‌")
+- [Antique Atlas 4 - 2.9.5+1.21](https://modrinth.com/mod/antique-atlas-4 "‌")
+- [Balm - 21.0.11+fabric-1.21](https://modrinth.com/mod/balm "‌")
+- [Dynamic FPS - 3.6.0](https://modrinth.com/mod/dynamic-fps "‌")
+- [Default Options - 21.0.5+fabric-1.21](https://modrinth.com/mod/default-options "‌")
+- [Forge Config API Port - v21.0.1-1.21-Fabric](https://modrinth.com/mod/forge-config-api-port "‌")
+- [Indium - 1.0.34+mc1.21](https://modrinth.com/mod/indium "‌")
+- [Iris Shaders - 1.7.3+1.21](https://modrinth.com/mod/iris "‌")
+- [Overlay Tweaks - 1.9.4](https://modrinth.com/mod/overlaytweaks "‌")
+- [Sodium - mc1.21-0.5.11](https://modrinth.com/mod/sodium "‌")
+- [Sounds - 1.0.1+1.21](https://modrinth.com/mod/sound "‌")
+- [Surveyor Map Framework - 0.5.6+1.21](https://modrinth.com/mod/surveyor "‌")
