@@ -48,9 +48,9 @@
 - [Surveyor Map Framework - 0.6.11+1.21](https://modrinth.com/mod/surveyor "‌")
 - [Text Placeholder API - 2.4.1+1.21](https://modrinth.com/mod/placeholder-api "‌")
 - [WAIG: Where Am I Going - 1.1.7](https://modrinth.com/mod/waig "‌")
-- [[EMF] - 2.1.3](https://modrinth.com/mod/entity-model-features "‌")
-- [[ESF] - 0.4](https://modrinth.com/mod/esf "‌")
-- [[ETF] - 6.1.3](https://modrinth.com/mod/entitytexturefeatures "‌")
+- [EMF - 2.1.3](https://modrinth.com/mod/entity-model-features "‌")
+- [ESF - 0.4](https://modrinth.com/mod/esf "‌")
+- [ETF - 6.1.3](https://modrinth.com/mod/entitytexturefeatures "‌")
 - [libIPN - fabric-1.21-rc1-6.0.0](https://modrinth.com/mod/libipn "‌")
 
 # Removed Mods
