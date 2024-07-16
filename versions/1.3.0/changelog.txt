@@ -1,8 +1,10 @@
 # IMPORTANT
 
-To get the proper keybinds fixes, you will need to launch the modpack and go to `Options...` → `Profiles` → `Cobbleton Keybinds & Resources` → `Load`.
-
-This will set only the important custom keybinds that the mods in the modpack use, but will leave regular keybinds and your video settings alone.
+- KEYBINDS & RESOURCE PACKS
+  - To get the proper keybinds fixes, you will need to launch the modpack and go to `Options...` → `Profiles` → `Cobbleton Keybinds & Resources` → `Load`.
+  - This will set only the important custom keybinds that the mods in the modpack use, but will leave regular keybinds and your video settings alone.
+- CONTROLIFY
+  - On first launch Controlify will ask to download extra files to enable controller support. Click yes to download these if you plan on using a controller at any point.
 
 # Added Mods
 
