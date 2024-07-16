@@ -1,0 +1,56 @@
+# IMPORTANT
+
+To get the proper keybinds fixes, you will need to launch the modpack and go to `Options...` → `Profiles` → `Cobbleton Keybinds & Resources` → `Load`.
+
+This will set only the important custom keybinds that the mods in the modpack use, but will leave regular keybinds and your video settings alone.
+
+# Added Mods
+
+- [AdvancementInfo Reloaded](https://modrinth.com/mod/advancements-reloaded "‌") - A better advancement screen. Click on advancements to get more info.
+- [Better Scrolling](https://modrinth.com/mod/better-scrolling "‌") - Just some extra options to customize scrolling hotbar behavior. Doesn’t do anything by default.
+- [Axolotl Bucket Fix](https://modrinth.com/mod/axolotl-bucket-fix "‌") - Shows the correct type of axolotl in a bucket.
+- [Edgeless Chat Screen](https://modrinth.com/mod/edgeless-chat-screen "‌") - Just moves the chat bar to the edge of the screen.
+- [Controlify](https://modrinth.com/mod/controlify "‌") - Added in case you want to play with a controller, though you’ll have to customize the controls yourself.
+- [Stendhal](https://modrinth.com/mod/stendhal "‌") - Enhanced visual utilities for books, signs, anvil and the in-game chat.
+- [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier "‌") - Shows what you've picked up!
+- [Fix Horizontal Camera Lag](https://modrinth.com/mod/fix-horizontal-camera-lag "‌") - Fixes the horizontal camera lag when riding on entities.
+- [OffersHUD](https://modrinth.com/mod/offershud "‌") - Shows villager offers on screen without right clicking.
+- [FuelInfo](https://modrinth.com/mod/fuel-info "‌") - Shows remaining furnace time and how many stacks the furnace can smelt by hovering over the progress arrow or the flame in the furnace HUD.
+
+# Added Resource Packs
+
+- [Enchant Icons](https://modrinth.com/resourcepack/enchant-icons-countxd "‌") - Adds enchantment icons and colors to tooltips
+- [Simple Grass Flowers](https://modrinth.com/resourcepack/simple-grass-flowers "‌") - Add small flower details to grass and other blocks
+
+# Updated Mods
+
+- [AmbientSounds - 6.0.4](https://modrinth.com/mod/ambientsounds "‌")
+- [Antique Atlas 4 - 2.9.12+1.21](https://modrinth.com/mod/antique-atlas-4 "‌")
+- [Balm - 21.0.14+fabric-1.21](https://modrinth.com/mod/balm "‌")
+- [Better Clouds - 1.7.1+1.21-r](https://modrinth.com/mod/better-clouds "‌")
+- [CreativeCore - 2.12.1](https://modrinth.com/mod/creativecore "‌")
+- [Complementary Shaders - r5.2.2](https://modrinth.com/shader/complementary-reimagined "‌")
+- [EMI - 1.1.10+1.21+fabric](https://modrinth.com/mod/emi "‌")
+- [Euphoria Patches - 0.3.4-fabric](https://modrinth.com/mod/euphoria-patches "‌")
+- [Fabric API - 0.100.7+1.21](https://modrinth.com/mod/fabric-api "‌")
+- [FabricBetterGrass - 1.0.18+1.21](https://modrinth.com/mod/fabricbettergrass "‌")
+- [Falling Leaves - 1.16.1+1.21](https://modrinth.com/mod/fallingleaves "‌")
+- [Forge Config API Port - v21.0.5-1.21-Fabric](https://modrinth.com/mod/forge-config-api-port "‌")
+- [Inventory Profiles Next - fabric-1.21-2.0.2](https://modrinth.com/mod/inventory-profiles-next "‌")
+- [ModernFix - 5.18.8+mc1.21](https://modrinth.com/mod/modernfix "‌")
+- [Options Profiles - 1.3](https://modrinth.com/mod/options-profiles "‌")
+- [Simple Voice Chat - fabric-1.21-2.5.19](https://modrinth.com/mod/simple-voice-chat "‌")
+- [Smart Block Placement - 1.4](https://modrinth.com/mod/smartblockplacement "‌")
+- [Sodium Shadowy Path Blocks - 3.3.1](https://modrinth.com/mod/sodium-shadowy-path-blocks "‌")
+- [Sounds - 1.1.0+1.21](https://modrinth.com/mod/sound "‌")
+- [Surveyor Map Framework - 0.6.11+1.21](https://modrinth.com/mod/surveyor "‌")
+- [Text Placeholder API - 2.4.1+1.21](https://modrinth.com/mod/placeholder-api "‌")
+- [WAIG: Where Am I Going - 1.1.7](https://modrinth.com/mod/waig "‌")
+- [[EMF] - 2.1.3](https://modrinth.com/mod/entity-model-features "‌")
+- [[ESF] - 0.4](https://modrinth.com/mod/esf "‌")
+- [[ETF] - 6.1.3](https://modrinth.com/mod/entitytexturefeatures "‌")
+- [libIPN - fabric-1.21-rc1-6.0.0](https://modrinth.com/mod/libipn "‌")
+
+# Removed Mods
+
+- AdvancementsFullscreen - Replaced with AdvancementInfo Reloaded
