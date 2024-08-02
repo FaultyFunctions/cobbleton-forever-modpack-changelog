@@ -1,1 +1,1 @@
-- Updated the internal modpack verion to match the correct version number
+- Updated the internal modpack version to match the correct version number
