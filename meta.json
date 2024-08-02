@@ -55,6 +55,15 @@
 					"modrinth": "https://modrinth.com/modpack/cobbleton-forever-modpack/version/1.4.0"
 				}
 			}
+		},
+				{
+			"id": "1.4.1",
+			"releasedAt": 1722526260000,
+			"promotions": {
+				"downloads": {
+					"modrinth": "https://modrinth.com/modpack/cobbleton-forever-modpack/version/1.4.1"
+				}
+			}
 		}
 	]
 }
