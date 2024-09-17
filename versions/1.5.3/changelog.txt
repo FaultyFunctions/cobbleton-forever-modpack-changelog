@@ -1,0 +1,1 @@
+- Disabled smooth scrolling on chat to avoid conflicts with Typewriter NPC plugin
