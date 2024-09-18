@@ -100,6 +100,15 @@
 					"modrinth": "https://modrinth.com/modpack/cobbleton-forever-modpack/version/1.5.3"
 				}
 			}
+		},
+				{
+			"id": "1.5.4",
+			"releasedAt": 1726717200000,
+			"promotions": {
+				"downloads": {
+					"modrinth": "https://modrinth.com/modpack/cobbleton-forever-modpack/version/1.5.4"
+				}
+			}
 		}
 	]
 }
