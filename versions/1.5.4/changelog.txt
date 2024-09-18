@@ -1,0 +1,8 @@
+# Removed Mods
+- Smooth Scrolling
+
+# Added Mods
+- Smooth Scrolling Refurbished
+
+# Fixed Bugs
+- Chat will now hide itself normally
