@@ -8,12 +8,13 @@
 
 ## Added
 
-- [Inventory Scale](https://modrinth.com/mod/inventoryscale "‌") - Be able to change your inventory UI scale separately from everything else
-- [Chest Search Bar](https://modrinth.com/mod/chest-search-bar "‌") - Adds a search bar to chests
-- [What Are They Up To](https://modrinth.com/mod/what-are-they-up-to "‌") - Now you see if players are typing, in their inventory, or idle!
-- [Easy Item List](https://modrinth.com/mod/easy-item-list "‌") - Now you can see the server’s custom items in the EMI recipe viewer!
-- [Wild Tool Access](https://modrinth.com/mod/wta "‌") - Press Y to open up a BOTW tool selection menu. Left-click to select.
-- [Subtle Effects](https://modrinth.com/mod/subtle-effects "‌") - Fun ambient effects
+- [Inventory Scale](https://modrinth.com/mod/inventoryscale) - Be able to change your inventory UI scale separately from everything else
+- [Chest Search Bar](https://modrinth.com/mod/chest-search-bar) - Adds a search bar to chests
+- [What Are They Up To](https://modrinth.com/mod/what-are-they-up-to) - Now you see if players are typing, in their inventory, or idle!
+- [Easy Item List](https://modrinth.com/mod/easy-item-list) - Now you can see the server’s custom items in the EMI recipe viewer!
+- [Wild Tool Access](https://modrinth.com/mod/wta) - Press Y to open up a BOTW tool selection menu. Left-click to select.
+- [Subtle Effects](https://modrinth.com/mod/subtle-effects) - Fun ambient effects
+- [Hard Cover](https://modrinth.com/mod/hardcover) - Adds a few vanilla-adjacent QOL tweaks to the Recipe Book.
 
 ## Updated
 
