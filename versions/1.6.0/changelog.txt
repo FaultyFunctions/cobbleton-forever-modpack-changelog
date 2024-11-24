@@ -15,6 +15,7 @@
 - [Wild Tool Access](https://modrinth.com/mod/wta) - Press Y to open up a BOTW tool selection menu. Left-click to select.
 - [Subtle Effects](https://modrinth.com/mod/subtle-effects) - Fun ambient effects
 - [Hard Cover](https://modrinth.com/mod/hardcover) - Adds a few vanilla-adjacent QOL tweaks to the Recipe Book.
+- [Screenshot Viewer](https://modrinth.com/mod/screenshot-viewer) - Adds a button to the esc menu to view screenshots in-game.
 
 ## Updated
 
