@@ -1,0 +1,8 @@
+## Added
+- AdvancementsFullscreen: Replacement for Advancement Info Reloaded
+
+## Changes
+- Subtle Effects: Adjusted config for better default values.
+
+## Removed
+- Advancement Info Reloaded: Was crashing the modpack
