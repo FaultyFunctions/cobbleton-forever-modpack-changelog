@@ -16,7 +16,6 @@
 - **Respackopts** - Allows us to give you server resource pack options in the future.
 - **PicoHUD** - Displays the coordinates, day, and biome on your screen.
   - `Right Alt` - Toggle PicoHUD on and off.
-- **MakeUp - Ultra Fast** - A high performance shader pack.
 - **Variants-CIT** - Extra resource pack support
 
 ## Added Resource Packs
