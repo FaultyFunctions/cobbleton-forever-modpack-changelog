@@ -1,0 +1,2 @@
+## Important
+Keybinds and Resource Pack loading are now separated. The `Profiles` button will now handle keybinds only and there is a new `Presets` button on the resource pack screen to handle resource pack presets.
