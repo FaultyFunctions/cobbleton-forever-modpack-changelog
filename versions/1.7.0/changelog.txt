@@ -1,0 +1,69 @@
+## Added
+
+- **Find - Search For Items** - Search for Items in containers by opening a container and pressing `Ctrl + F`
+- **Show Me Your Skin!** - Hide player armor or make it transparent so you can see their skin under their armor.
+  - `J` - Toggle mod
+  - `U` - Mod settings
+- **LambdaBetterGrass Refabricated** - Better grass textures
+- **Wavey Capes** - Give capes physics!
+- **Better Third Person** - 360 degree cam for third person
+- **Chest Colorizer** - `Shift + Right-click` chests with dye to color code them.
+- **Effect Timer Plus** - Shows how much time is left on a potion effect on the icon itself.
+- **DeathView** - Third person view of you dying.
+- **Block Meter** - Measuring blocks
+  - `\` - Select your current tool as a block meter
+  - `]` - Block Meter options (after it’s turned on)
+- **Respackopts** - Allows us to give you server resource pack options in the future.
+- **PicoHUD** - Displays the coordinates, day, and biome on your screen.
+  - `Right Alt` - Toggle PicoHUD on and off.
+- **MakeUp - Ultra Fast** - A high performance shader pack.
+- **Variants-CIT** - Extra resource pack support
+
+## Added Resource Packs
+
+- **Myth's Better Hotbar** - Cleaner hotbar
+- **GUI Revision** - Pleasing container UI
+- **Xali’s Potions** - Makes potions more identifiable
+- **Xali’s Enchanted Books** - Makes enchanted books more identifiable
+- **Os' Cleaner Signs** - Cleans up sign textures
+- **Os' Colorful Grasses** - Makes grasses more immersive and fun
+- **Os’ Shulkers** - Adds patterns to colored shulkers
+- **Better Carpets** - Makes carpets spill over the block a little
+
+## Added Shaders
+
+- **Insanity Shaders** - If you want a spooky look
+
+## Removed
+
+- **Chest Search Bar** - Replaced with the find mod
+- **Immersive: Tooltips** - “Was causing issues with custom items
+- **BetterGrassify** - Replaced with the LambdaBetterGrass Refabricated mod
+
+## Updated
+
+- AmbientSounds - 6.1.4
+- Better Clouds - 1.7.5+1.21-fabric-r
+- Continuity - 3.0.0+1.21.neoforge
+- CreativeCore - 2.12.23
+- Dynamic FPS - 3.7.7
+- Entity Culling - 1.7.2
+- Fabric API - 0.110.0+1.21.1
+- Fabric Language Kotlin - 1.13.0+kotlin.2.1.0
+- Falling Leaves - 1.16.4+1.21
+- Fzzy Config - 0.5.9+1.21
+- ImmediatelyFast - 1.3.3+1.21.1-fabric
+- Inventory Profiles Next - fabric-1.21.1-2.1.0
+- Iris Shaders - 1.8.1+1.21.1-fabric
+- Lithium - mc1.21.1-0.14.3
+- ModernFix - 5.19.6+mc1.21.1
+- Not Enough Animations - 1.8.2
+- Ok Zoomer - 10.0.0-beta.7+fabric
+- Options Profiles - 1.3.2
+- Polytone - 1.21-2.5.13
+- Scroll2Key - 1.0.5
+- Sodium - mc1.21.1-0.6.3-fabric
+- Sounds - 2.2.1+1.21-fabric
+- Subtle Effects - 1.7.0
+- YetAnotherConfigLib - 3.6.2+1.21-fabric
+- libIPN - fabric-1.21-6.2.0
