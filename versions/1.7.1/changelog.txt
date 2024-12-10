@@ -1,0 +1,1 @@
+- Remove sodium files for the Options Profiles mod to prevent crashing when loading a profile.
