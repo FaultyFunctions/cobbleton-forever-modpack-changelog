@@ -1,0 +1,1 @@
+- Removed Merchant Markers. It was causing issues with lighting & resource packs.
