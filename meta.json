@@ -190,6 +190,15 @@
 					"modrinth": "https://modrinth.com/modpack/cobbleton-forever-modpack/version/1.8.1"
 				}
 			}
+		},
+				{
+			"id": "1.8.2",
+			"releasedAt": 1750568498322,
+			"promotions": {
+				"downloads": {
+					"modrinth": "https://modrinth.com/modpack/cobbleton-forever-modpack/version/1.8.2"
+				}
+			}
 		}
 	]
 }
