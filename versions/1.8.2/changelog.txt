@@ -1,0 +1,9 @@
+## Added/Re-Enabled
+
+- Immersive Hotbar
+- HotbarCycle
+- REI
+
+## Disabled
+
+- Armor Chroma for Fabric
