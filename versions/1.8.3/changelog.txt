@@ -1,0 +1,2 @@
+## Disabled
+- Find - Search For Items (Crashes, replaced by double clicking the REI search bar instead)
